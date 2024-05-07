@@ -17,7 +17,7 @@
 
 \=
 
-😋 🫶🏻 the best job in the world
+😋 🫶🏻 The best job in the world
 
 
 ![shark](https://github.com/vafeen/vafeen/blob/main/shark.gif)
