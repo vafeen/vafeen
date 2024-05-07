@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+![shark](https://github.com/vafeen/vafeen/blob/main/shark.gif)
 <!--
 **vafeen/vafeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
