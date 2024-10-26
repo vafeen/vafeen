@@ -19,8 +19,9 @@ Android apps:
 
 - [learn2invest](https://github.com/vafeen/learn2Invest) - Stock market investment simulator
 
-- [University schedule](https://github.com/vafeen/UniversitySchedule) - An application for tracking the schedule in the university
+- [University schedule](https://github.com/vafeen/UniversitySchedule) - Application for tracking the schedule at the university
 
+- [Whisper of Tasks](https://github.com/vafeen/Whisper-of-Tasks) - Task Tracking and Reminder Application
 
 Web apps:
 
