@@ -26,4 +26,4 @@ Android apps:
 
 ## Other
 
-- [Cemetery of my projects](https://gitflic.ru/user/vafeen)
+- [Cemetery of my projects](https://github.com/vafeenLabs)
